@@ -1,0 +1,15 @@
+# Excel temporary / lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Office temporary files
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
